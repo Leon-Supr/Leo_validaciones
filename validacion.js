@@ -36,21 +36,3 @@ function verSaldo (){
 
 
 
-// Base de lógica
-// if (ingresado < dinero){
-//     console.log('Lo sentimos, su cuenta solo dispone de ' + dinero + ' pesos');
-// } else if (ingresado >= dinero){
-//     console.log('Usted ha retirado ' + ingresado + ' pesos, tenga buen día');
-// } else if (ingresado > 9000){
-//     console.log('La cantidad máxima a retirar son 9000 pesos');
-// }else if (ingresado === NaN){
-//     console.log('Por favor ingrese una cantidad válida');
-// }
-
-
-// Depositar
-
-// if (ingresado === NaN){
-//     console.log('Por favor ingrese una cantidad válida');
-// }
-
